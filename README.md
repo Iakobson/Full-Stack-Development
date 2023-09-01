@@ -1,5 +1,21 @@
 # Full-Stack-Development
 
+
+## YouTube
+
+* Ulbi TV: [SOLID ПРИНЦИПЫ простым языком](https://www.youtube.com/watch?v=TxZwqVTaCmA)
+* Ulbi TV: [ООП на простых примерах. Объектно-ориентированное программирование](https://www.youtube.com/watch?v=-6DWwR_R4Xk)
+* Ulbi TV: [MVC, MVVM Архитектура. Наглядная теория и примеры](https://www.youtube.com/watch?v=X85soC5evw0)
+* Ulbi TV: [CI CD наглядные примеры](https://www.youtube.com/watch?v=ANj7qUgzNq4)
+* Ulbi TV: [BACKEND на Node.js. Nest js ПОЛНЫЙ КУРС & Docker](https://www.youtube.com/watch?v=dDeWWQWMM-Y)
+
+
+
+
+
+
+
+
 - - -
 
 ## [rxjs](https://rxjs.dev/)
