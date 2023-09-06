@@ -20,10 +20,13 @@
 + Велика спільнота та активний розвиток:
   - react-hook-form має велику активну спільноту користувачів і постійно оновлюється, що робить його потужним і надійним інструментом для роботи з формами в React-проектах.
 
-Коротше кажучи, react-hook-form робить роботу з формами в React-проектах більш зручною, ефективною і зменшує кількість зайвого коду, який вам потрібно писати для управління формами.
+> _Коротше кажучи, react-hook-form робить роботу з формами в React-проектах більш зручною, ефективною і зменшує кількість зайвого коду, який вам потрібно писати для управління формами._
 
-
-
+* npm-site: https://www.npmjs.com/package/react-hook-form
+* install: npm install react-hook-form
+* home-page: https://www.react-hook-form.com/
+  + _Performant, flexible and extensible forms with easy-to-use validation._
+  + _Build your form with code and example._
 
 
 
