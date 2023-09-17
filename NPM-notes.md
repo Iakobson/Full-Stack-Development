@@ -6,7 +6,7 @@
 
 
 * npm-site: 
-* install: 
+* install: ``
 * home-page: 
 
 - - -
@@ -28,12 +28,34 @@
 + Підтримка кастомного форматування:
   - Ви можете налаштувати 'morgan' для виведення будь-якої додаткової інформації або логіку форматування.
 
+* npm-site: https://www.npmjs.com/package/morgan
+* install: `npm install morgan`
+* home-page: https://github.com/expressjs/morgan#readme
+
 Після встановлення та налаштування 'morgan' в твоєму Node.js додатку, він буде автоматично журналювати запити, що надходять до сервера, що допоможе тобі відстежувати роботу твого додатку та виявляти можливі проблеми.
 
+#### Example: vanilla http server
+> _Simple app that will log all request in the Apache combined format to STDOUT_
 
-
-
-
+```node
+  var finalhandler = require('finalhandler')
+  var http = require('http')
+  var morgan = require('morgan')
+ 
+  // create "middleware"
+  var logger = morgan('combined')
+ 
+  http.createServer(function (req, res) {
+    var done = finalhandler(req, res)
+    logger(req, res, function (err) {
+      if (err) return done(err)
+ 
+      // respond to request
+      res.setHeader('content-type', 'text/plain')
+      res.end('hello, world!')
+    })
+  })
+```
 
 
 - - -
