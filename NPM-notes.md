@@ -417,6 +417,31 @@ bcryptjs - це потужний інструмент для забезпече�
   })
 ```
 
+**Ви можете налаштувати "morgan" таким чином, щоб він записував логи у файл "requestLogs.log".**
+```javascript
+  const express = require('express');
+  const morgan = require('morgan');
+  const fs = require('fs');
+  const path = require('path');
+
+  const app = express();
+
+  // Створюємо потік для запису логів у файл
+  const accessLogStream = fs.createWriteStream(path.join(__dirname, 'requestLogs.log'), { flags: 'a' });
+
+  // Використовуємо morgan для запису логів у файл
+  app.use(morgan('combined', { stream: accessLogStream }));
+
+  // Решта конфігурації та маршрути
+
+  app.listen(3000, () => {
+    console.log('Server is running on port 3000');
+  });
+```
+
+> _В результаті кожен запит до вашого сервера буде зареєстрований у цьому файлі для подальшого аналізу та відладки._
+
+
 - - -
 
 ### react-router-dom <a name="reactrouterdom"></a>
