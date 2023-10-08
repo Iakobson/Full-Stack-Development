@@ -1,5 +1,20 @@
 # Train Projects
 
+* [Notes App using MERN | Development to Deployment | Full Stack web](https://www.youtube.com/watch?v=FH8w0oz2K9I)
+  - **MERNify**
+  - web application that allows users to create, read, update, and delete notes;
+  - app has a beautiful user interface
+  - it uses password hashing techniques to ensure that users' login credentials are secure;
+  - app uses token login to provide a more secure authentication process;
+  - app has been deployed on two different platforms:
+      - backend server - on Cyclic;
+      - frontend - on Vercel;
+
+
+
+
+
+
 
 * [Fullstack приложение с нуля. MERN-Blog 2022]([)](https://www.youtube.com/watch?v=QxTeE5EMiWI)https://www.youtube.com/watch?v=QxTeE5EMiWI)
   - **Давай Попробуем: JavaScript**
