@@ -20,16 +20,25 @@
   + #4 - Frontend - Setup - Create Login
   + #5 - Frontend - Create Notes Page
   + #6 - Frontend - Create Notes and Edit Note
-  + git: https://github.com/devat-youtuber/mern-notes-app
+    - git: https://github.com/devat-youtuber/mern-notes-app
   + #7 - Deploy Heroku -END
-
-
-
-  
-
-
-
-
+* [MERN: Awesome Full Stack Notes Web App](https://www.youtube.com/playlist?list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
+  + MERN Stack Tutorial Series with Redux
+  + #2 - What is MERN Stack ?
+  + #3 - Environment Setup
+  + Creating Node JS Server and Express JS API
+  + #5 Starting Our React JS App
+  + Landing Page and Navbar with React Bootstrap
+  + Creating My Notes Page with React Router Dom
+  + Connecting Backend and Frontend + CORS
+  + Connecting MongoDB to Node JS / Express JS
+  + #10 User Authentication with JWT
+  + #11 Implementing Redux in MERN Stack
+  + Notes API with CRUD Operation
+  + Implementing Notes CRUD APIs in React JS with Redux
+    - git: https://github.com/piyush-eon/notezipper
+  + #14 User Profile Functionality
+  + Deploying MERN Stack App to Render 
 * [Fullstack приложение с нуля. MERN-Blog 2022](https://www.youtube.com/watch?v=QxTeE5EMiWI)
   - **Давай Попробуем: JavaScript**
   - Mongodb/Express.js/React.js/Node.js
