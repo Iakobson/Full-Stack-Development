@@ -9,14 +9,28 @@
   - app has been deployed on two different platforms:
       - backend server - on Cyclic;
       - frontend - on Vercel;
+* [MERN Stack | Build a Notes App](https://www.youtube.com/playlist?list=PLs4co9a6NhMzi2DQS_I4rqmNZdq-jSpsa)
+  + #1 - Setup and Connect MongoDB
+    - ``npm i express mongoose cors bcrypt jsonwebtoken dotenv``
+    - ``npx create-react-app client``
+    - `` npm i -D nodemon``
+  + JWT Authorization and authentication flow
+  + #2 - Backend Login Auth, JWT, bcrypt and Middleware
+  + #3 - Final - Backend Create Notes
+  + #4 - Frontend - Setup - Create Login
+  + #5 - Frontend - Create Notes Page
+  + #6 - Frontend - Create Notes and Edit Note
+  + git: https://github.com/devat-youtuber/mern-notes-app
+  + #7 - Deploy Heroku -END
+
+
+
+  
 
 
 
 
-
-
-
-* [Fullstack приложение с нуля. MERN-Blog 2022]([)](https://www.youtube.com/watch?v=QxTeE5EMiWI)https://www.youtube.com/watch?v=QxTeE5EMiWI)
+* [Fullstack приложение с нуля. MERN-Blog 2022](https://www.youtube.com/watch?v=QxTeE5EMiWI)
   - **Давай Попробуем: JavaScript**
   - Mongodb/Express.js/React.js/Node.js
   - git: https://github.com/llreebor/youtube-src/tree/main
