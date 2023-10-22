@@ -10,7 +10,7 @@
       - backend server - on Cyclic;
       - frontend - on Vercel;
 * [MERN Stack | Build a Notes App](https://www.youtube.com/playlist?list=PLs4co9a6NhMzi2DQS_I4rqmNZdq-jSpsa)
-  + **Dev A.T Viet Nam**
+  + **Dev A.T Viet Nam** 🧑‍🦽
   + https://github.com/devat-youtuber/mern-notes-app
   + #1 - Setup and Connect MongoDB
     - ``npm i express mongoose cors bcrypt jsonwebtoken dotenv``
@@ -26,7 +26,7 @@
     - _axios, timeago.js_
   + #7 - Deploy Heroku -END
 * [MERN: Awesome Full Stack Notes Web App](https://www.youtube.com/playlist?list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
-  + MERN Stack Tutorial Series with Redux
+  + MERN Stack Tutorial Series with Redux 🧑‍🦽
   + #2 - What is MERN Stack ?
   + #3 - Environment Setup
   + Creating Node JS Server and Express JS API
@@ -40,6 +40,7 @@
   + Notes API with CRUD Operation
   + Implementing Notes CRUD APIs in React JS with Redux
     - git: https://github.com/piyush-eon/notezipper
+    - - _axios, react-markdown, redux-thunk_
   + #14 User Profile Functionality
   + Deploying MERN Stack App to Render 
 * [Fullstack приложение с нуля. MERN-Blog 2022](https://www.youtube.com/watch?v=QxTeE5EMiWI)
@@ -58,14 +59,16 @@
 * [MERN Crash Course | JWT Authentication, Redux Toolkit, Deployment & More](https://www.youtube.com/watch?v=R4AhvYORZRY)
   + **Traversy Media**
   + https://github.com/bradtraversy/mern-auth
+    -  _ 🏄 vite, 🤸‍♀️ react-toastify, 🤹‍♂️ @reduxjs/toolkit_
   + SPA workflow that uses the Vite Build tool
   + React Bootstrap UI library
   + Backend API with Express & MongoDB
   + Routes for auth, logout, register, profile, update profile
-* [Full Tutorial & Project | Complete All-in-One Course](https://www.youtube.com/watch?v=CvCiNeLnZ00&t=3s)
-  + **Dave Gray**
-  + https://github.com/gitdagray/mern_stack_course
-  + MERN Stack Project
+* 📺 [Full Tutorial & Project | Complete All-in-One Course](https://www.youtube.com/watch?v=CvCiNeLnZ00&t=3s)
+  + **Dave Gray** 📚
+  + 🚀 https://github.com/gitdagray/mern_stack_course
+  + MERN Stack Project 💡
+    - 💻 Source Code
   + Middleware
   + MongoDB
   + Controllers
