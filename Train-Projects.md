@@ -10,6 +10,8 @@
       - backend server - on Cyclic;
       - frontend - on Vercel;
 * [MERN Stack | Build a Notes App](https://www.youtube.com/playlist?list=PLs4co9a6NhMzi2DQS_I4rqmNZdq-jSpsa)
+  + **Dev A.T Viet Nam**
+  + https://github.com/devat-youtuber/mern-notes-app
   + #1 - Setup and Connect MongoDB
     - ``npm i express mongoose cors bcrypt jsonwebtoken dotenv``
     - ``npx create-react-app client``
