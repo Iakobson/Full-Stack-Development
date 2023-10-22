@@ -64,6 +64,14 @@
 * [Full Tutorial & Project | Complete All-in-One Course](https://www.youtube.com/watch?v=CvCiNeLnZ00&t=3s)
   + **Dave Gray**
   + https://github.com/gitdagray/mern_stack_course
+  + MERN Stack Project
+  + Middleware
+  + MongoDB
+  + Controllers
+  + React JS
+  + Redux & RTK Query
+  + JWT Auth
+  + Deployment
 * [Fullstack приложение за 3 часа. React и Node. MERN](https://www.youtube.com/watch?v=ivDjWYcKDZI&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=3)
   - **vladilen.minin** 😵‍💫
   - _Инициализация проекта на Node.js_ 👁
