@@ -47,6 +47,32 @@
 * [Продвинутая JWT авторизация на React и Node js](https://www.youtube.com/watch?v=fN25fMQZ2v0)
 
 
+- - -
+
+## YouTube MERN
+
+* [MERN Crash Course | JWT Authentication, Redux Toolkit, Deployment & More](https://www.youtube.com/watch?v=R4AhvYORZRY)
+  + **Traversy Media**
+  + https://github.com/bradtraversy/mern-auth
+  + SPA workflow that uses the Vite Build tool
+  + React Bootstrap UI library
+  + Backend API with Express & MongoDB
+  + Routes for auth, logout, register, profile, update profile
+* [Full Tutorial & Project | Complete All-in-One Course](https://www.youtube.com/watch?v=CvCiNeLnZ00&t=3s)
+  + **Dave Gray**
+  + https://github.com/gitdagray/mern_stack_course
+* [Fullstack приложение за 3 часа. React и Node. MERN](https://www.youtube.com/watch?v=ivDjWYcKDZI&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=3)
+  - **vladilen.minin** 😵‍💫
+  - _Инициализация проекта на Node.js_ 👁
+  - _Настройка Express.js_ 👁
+  - _Подключение к базе данных MongoDB_ 👁
+  - _Настройка React.js_ 👁
+  - _Настойка роутинга страниц_ 👁
+  - _Работа над авторизацией_ 👁
+  - _Работа над-бизнес логикой на сервере_ 👁
+  - _Добавление на GitHub_ 👁
+  - _Настройка сервера на хостинге_ 👁
+  - _Настройка менеджера процессов PM2_ 👁
 
 
 
