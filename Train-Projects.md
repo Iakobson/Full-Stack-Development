@@ -23,6 +23,7 @@
   + #5 - Frontend - Create Notes Page
   + #6 - Frontend - Create Notes and Edit Note
     - git: https://github.com/devat-youtuber/mern-notes-app
+    - _axios, timeago.js_
   + #7 - Deploy Heroku -END
 * [MERN: Awesome Full Stack Notes Web App](https://www.youtube.com/playlist?list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
   + MERN Stack Tutorial Series with Redux
