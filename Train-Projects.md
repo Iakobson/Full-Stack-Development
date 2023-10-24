@@ -1,6 +1,6 @@
 # Train Projects
 
-* 📺 [Full Tutorial & Project | Complete Course](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6P4dQUsoDatjEGpmBpcOW8V)
+* 📺 [Full Tutorial & Project | Complete Course](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6P4dQUsoDatjEGpmBpcOW8V) 📌
   + **Dave Gray** 📚
   + 🚀 https://github.com/gitdagray/mern_stack_course
   + MERN Stack Project 💡
