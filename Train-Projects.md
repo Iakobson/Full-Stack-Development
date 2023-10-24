@@ -5,9 +5,9 @@
   + 🚀 https://github.com/gitdagray/mern_stack_course
   + MERN Stack Project 💡
     - 💻 Source Code
-  + Middleware
-  + MongoDB
-  + Controllers
+  + Middleware 🎹
+  + MongoDB 🎼
+  + Controllers 🎬
   + React JS
   + Redux & RTK Query
   + JWT Auth
