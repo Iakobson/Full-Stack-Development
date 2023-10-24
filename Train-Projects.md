@@ -1,5 +1,17 @@
 # Train Projects
 
+* 📺 [Full Tutorial & Project | Complete Course](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6P4dQUsoDatjEGpmBpcOW8V)
+  + **Dave Gray** 📚
+  + 🚀 https://github.com/gitdagray/mern_stack_course
+  + MERN Stack Project 💡
+    - 💻 Source Code
+  + Middleware
+  + MongoDB
+  + Controllers
+  + React JS
+  + Redux & RTK Query
+  + JWT Auth
+  + Deployment
 * [Notes App using MERN | Development to Deployment | Full Stack web](https://www.youtube.com/watch?v=FH8w0oz2K9I)
   - **MERNify**
   - web application that allows users to create, read, update, and delete notes;
@@ -50,12 +62,6 @@
     - _axios, react-toastify_
 * [TELEGRAM Бот на node js и React. Интернет магазин](https://www.youtube.com/watch?v=MzO-0IYkZMU)
 * [Продвинутая JWT авторизация на React и Node js](https://www.youtube.com/watch?v=fN25fMQZ2v0)
-
-
-- - -
-
-## YouTube MERN
-
 * [MERN Crash Course | JWT Authentication, Redux Toolkit, Deployment & More](https://www.youtube.com/watch?v=R4AhvYORZRY)
   + **Traversy Media**
   + https://github.com/bradtraversy/mern-auth
@@ -64,18 +70,6 @@
   + React Bootstrap UI library
   + Backend API with Express & MongoDB
   + Routes for auth, logout, register, profile, update profile
-* 📺 [Full Tutorial & Project | Complete All-in-One Course](https://www.youtube.com/watch?v=CvCiNeLnZ00&t=3s)
-  + **Dave Gray** 📚
-  + 🚀 https://github.com/gitdagray/mern_stack_course
-  + MERN Stack Project 💡
-    - 💻 Source Code
-  + Middleware
-  + MongoDB
-  + Controllers
-  + React JS
-  + Redux & RTK Query
-  + JWT Auth
-  + Deployment
 * [Fullstack приложение за 3 часа. React и Node. MERN](https://www.youtube.com/watch?v=ivDjWYcKDZI&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=3)
   - **vladilen.minin** 😵‍💫
   - _Инициализация проекта на Node.js_ 👁
