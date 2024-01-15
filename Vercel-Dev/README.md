@@ -23,6 +23,37 @@ Using Git with Vercel provides the following benefits:
 > 2. Перейдіть до вкладки Параметри (Settings), а потім зайдіть у пункт меню Git.
 > 3. У розділі Ignored Build Step виберіть потрібну поведінку.
 
+- - -
+
+## Configuring Project with vercel.json
+
+Файл конфігурації vercel.json дає змогу налаштувати та змінити типову поведінку Vercel у вашому проекті.
+
+```vercel.json
+{
+  "buildCommand": "next build",
+  "cleanUrls": true
+}
+```
+
+- - -
+
+## Managing Deployments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
